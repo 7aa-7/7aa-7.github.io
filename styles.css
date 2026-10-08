@@ -66,4 +66,7 @@ div.video_3{
   font-family: liam-font;
   src: url(humantooth-type-v1.woff2);
 }
-
+@font-face {
+  font-family: font1;
+  src: url(Lorean.ttf);
+}
