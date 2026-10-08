@@ -62,4 +62,8 @@ div.video_3{
     font-size: 16px;
     margin: 1px;
 }
+@font-face {
+  font-family: liam-font;
+  src: url(humantooth-type-v1.woff2);
+}
 
