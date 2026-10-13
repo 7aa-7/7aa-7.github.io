@@ -86,3 +86,6 @@ div.video_3{
   font-family:font5;
   src: url(Stone.ttf);
 }
+.home_button{
+  align-self: top;
+}
