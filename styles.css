@@ -87,7 +87,7 @@ div.video_3{
   src: url(Stone.ttf);
 }
 .home_button{
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   width: 10%;
