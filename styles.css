@@ -87,7 +87,9 @@ div.video_3{
   src: url(Stone.ttf);
 }
 .home_button{
-  align-self: top;
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 10%;
   height: auto;
 }
